@@ -1,6 +1,8 @@
 # LiverSeg 3D
 
 Приложение для 3D сегментации печени на КТ изображениях с использованием современных моделей глубокого обучения.
+<img width="1896" height="980" alt="image" src="https://github.com/user-attachments/assets/7935e189-5fd9-45f6-869a-5b564c99aba8" />
+
 
 ## Описание
 
@@ -204,3 +206,4 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+
